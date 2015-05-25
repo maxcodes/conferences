@@ -12,3 +12,13 @@
 [thunder-cfp]: http://cfp.thunderplainsconf.com/
 [madruby]: http://madisonpl.us/ruby/
 [burling]: http://www.burlingtonrubyconference.com/
+
+# Entrepeneurship Conferences
+
+| Name                                  | Location     | Date    |
+| ------------------------------------- | ------------ | ------- |
+| [Web Summit][web]                     | Dublin       | Nov 3-5 |
+| [South American Business Forum][sabf] | Buenos Aires | Aug 6-8 |
+
+[web]: https://websummit.net/
+[sabf]: http://www.sabf.org.ar/
