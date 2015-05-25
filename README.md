@@ -10,4 +10,5 @@
 [ots]: https://otsconf.com
 [thunder]: http://thunderplainsconf.com/
 [thunder-cfp]: http://cfp.thunderplainsconf.com/
+[madruby]: http://madisonpl.us/ruby/
 [burling]: http://www.burlingtonrubyconference.com/
